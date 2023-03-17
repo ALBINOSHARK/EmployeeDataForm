@@ -1,0 +1,13 @@
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  .gap-01{
+    padding-right: 90px;
+  }
+
+  .gap-02{
+    padding-right: 120px;
+  }
+  
