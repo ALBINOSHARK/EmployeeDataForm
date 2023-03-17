@@ -26,6 +26,7 @@ export class RegisterComponent implements OnInit{
       // this.loginUser()
   }
  
+  
       // loginForm!:FormGroup;
 
       //ngOnInit(){
